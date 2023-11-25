@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1449426723"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Tomy\Desktop\Programación Tomy\E J E R C I C I O S\Sección 11 Tipos abstractos de datos\4 Caso de estudio\lib\i386-win32&quot; &quot;-FuC:\Users\Tomy\Desktop\Programación Tomy\E J E R C I C I O S\Sección 11 Tipos abstractos de datos\4 Caso de estudio\&quot; &quot;-FUC:\Users\Tomy\Desktop\Programación Tomy\E J E R C I C I O S\Sección 11 Tipos abstractos de datos\4 Caso de estudio\lib\i386-win32\&quot; &quot;-FEC:\Users\Tomy\Desktop\Programación Tomy\E J E R C I C I O S\Sección 11 Tipos abstractos de datos\4 Caso de estudio\&quot; &quot;-oC:\Users\Tomy\Desktop\Programación Tomy\E J E R C I C I O S\Sección 11 Tipos abstractos de datos\4 Caso de estudio\GestionDeCursos.exe&quot; GestionDeCursos.lpr"/>
+</CONFIG>

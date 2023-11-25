@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="GestionDeCursos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="42" Y="4"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucomando.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UComando"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="326"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ugeneralconst.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UGeneralConst"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="plantilladetipos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PlantillaDeTipos"/>
+        <EditorIndex Value="11"/>
+        <CursorPos Y="90"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umaterias.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UMaterias"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="22" Y="58"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uasignaturas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UAsignaturas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="62"/>
+        <CursorPos X="43" Y="84"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucursos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UCursos"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="179"/>
+        <CursorPos X="41" Y="105"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udocentes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UDocentes"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="5" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uestudiantes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UEstudiantes"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="15" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uinscripciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UInscripciones"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="28" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="urendiciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="URendiciones"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="34" Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uexamenes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UExamenes"/>
+        <EditorIndex Value="10"/>
+        <CursorPos X="15"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="plantilladetipos.pas"/>
+        <Caret Line="5" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ucursos.pas"/>
+        <Caret Line="6" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="umaterias.pas"/>
+        <Caret Line="14" Column="14" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="umaterias.pas"/>
+        <Caret Line="58" Column="66" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="umaterias.pas"/>
+        <Caret Line="32" Column="42" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturas.pas"/>
+        <Caret Line="15" Column="19" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturas.pas"/>
+        <Caret Line="83" Column="125" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="ucursos.pas"/>
+        <Caret Line="50" Column="12" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="ucursos.pas"/>
+        <Caret Line="68" Column="17" TopLine="47"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
